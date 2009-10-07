@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="148" height="36"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <defs>
+    <style type="text/css"><![CDATA[
+      #gradient .begin {
+        stop-color: #d1deed;
+      }
+      #gradient .end {
+        stop-color: #80a1cc;
+      }
+      #progress-bar {
+        fill: none;
+        stroke: #5b79a3;
+      }
+      #progress {
+        fill: url(#gradient);
+        stroke: #7298cc;
+      }
+    ]]></style>
+  </defs>
+  <linearGradient id="gradient" x2="0%" y2="100%">
+    <stop stop-color="#d1deed" offset="0%"/>
+    <stop stop-color="#80a1cc" offset="100%"/>
+  </linearGradient>
+  <rect x="0" y="8" width="148" height="20" style="fill: #ccc"/>
+  <rect id="progress" x="10" y="12" rx="3" ry="3" width="76" height="12"/>
+  <rect id="progress-bar" x="10" y="12" rx="3" ry="3" width="128" height="12"/>
+</svg>

@@ -1,0 +1,5 @@
+<!ENTITY prefs.title          "AV Controls Options">
+<!ENTITY prefs.enabled        "Enable AV Controls">
+<!ENTITY prefs.hideControls   "Hide controls in statusbar">
+<!ENTITY prefs.keepLast       "Keep last media item">
+<!ENTITY prefs.keepLastTitle  "Don't disable the controls if no media item is found on the current tab. The last visited media item is used instead.">

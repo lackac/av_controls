@@ -1,0 +1,26 @@
+<!ENTITY brand.name       "AV Controls">
+<!ENTITY brand.url        "http://github.com/lackac/">
+<!ENTITY brand.authorUrl  "http://lackac.hu/">
+<!ENTITY brand.description
+  "AV Controls detects if you have HTML5 Audio or Video in a page and activates global visual and/or keyboard controls for it.">
+
+<!ENTITY enabled.label  "Enabled">
+<!ENTITY enabled.key    "E">
+<!ENTITY hideControls.label  "Hide Controls">
+<!ENTITY hideControls.key    "H">
+<!ENTITY prefs.label    "Preferences…">
+<!ENTITY prefs.key      "P">
+<!ENTITY fullscreen.label "Add Fullscreen Support…">
+<!ENTITY fullscreen.key   "F">
+<!ENTITY about.label    "About">
+<!ENTITY about.key      "A">
+
+<!ENTITY about.version                    "version">
+<!ENTITY about.copy.beforeLink            "Copyright © 2009 by">
+<!ENTITY about.copy.linkTitle             "László Bácsi">
+<!ENTITY about.author.beforeLink          "Created by">
+<!ENTITY about.author.linkTitle           "László Bácsi">
+<!ENTITY about.license.beforeLink         "This extension is subject to">
+<!ENTITY about.license.linkTitle          "the Mozilla Public License v1.1">
+<!ENTITY about.license.afterLink
+  "you may not use the extension except in compliance with this license">
