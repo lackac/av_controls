@@ -20,7 +20,7 @@ The last feature can be quite useful if you listen to the audio while reading so
 
 **Volume control is also planned**. This shouldn't be so hard, just have to find some time to get to it.
 
-I have also some lower priority plans like supporting youtube videos. I have to look into it if it's at all possible.
+I have some lower priority plans as well like supporting youtube videos. I have to look into it if it's at all possible. I also plan to make all of the media items across all open tabs available to control thourgh some clever menu popup.
 
 I also welcome feature requests and bug reports at the [issues page](issues).
 
