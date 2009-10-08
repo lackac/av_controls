@@ -6,6 +6,12 @@ When a HTML5 media element is detected on a page the playback controls are displ
 
 [1]: https://addons.mozilla.org/en-US/firefox/addon/12576
 
+## Installation
+
+AV Controls v0.1 [install](http://icanscale.com/av_controls/release/av_controls-0.1.xpi)
+
+<small>AV Controls requires Firefox 3.5+</small>
+
 ## Features
 
 * always reachable controls in statusbar
