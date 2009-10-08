@@ -60,7 +60,7 @@
             <checkbox id="hide-controls-field" preference="hide-controls"/>
           </row>
           <row>
-            <label control="keep-last-field" value="&prefs.keepLast;" title="&prefs.keepLastTitle;"/>
+            <label control="keep-last-field" value="&prefs.keepLast;" tooltiptext="&prefs.keepLastTitle;"/>
             <checkbox id="keep-last-field" preference="keep-last"/>
           </row>
         </rows>
